@@ -1,0 +1,6 @@
+.DS_Store
+models/
+llama.cpp/
+output/
+__pycache__/
+*.pyc
